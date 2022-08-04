@@ -1,0 +1,64 @@
+#head{
+    font-size: xx-large;
+    color: #006400;
+    position:relative;
+}
+
+
+body{
+    background-color: aliceblue;
+}
+hr{
+    position: absolute;
+    width: 640px;
+    height: 0;
+    border: 1.5px solid #006400;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: -40px;
+    margin-bottom: 10px;
+    
+
+}
+#welcome{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.fl{
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.container{
+    max-width: 960px;
+    margin: auto;
+}
+.img{
+    width: 600px;
+    margin: auto;
+
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+.btn{
+    background: transparent;
+    color:black;
+    border: 1px solid black;
+    padding: 15px 7.5px 15px 7.5px;
+    width: 50%;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+
+
+}
+.btn:active{
+    color: cadetblue;
+}
+.btn:hover{
+    color: blue ;
+
+}
